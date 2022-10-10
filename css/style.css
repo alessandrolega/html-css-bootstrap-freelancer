@@ -1,0 +1,21 @@
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.white-bar{
+    height: 2px;
+    background-color: white;
+    width: 40%;
+}
+
+.fa-star{
+    color: white;
+}
+
+ul li{
+    list-style: none;
+}
+
+.section-bg{
+    background-color: #1abc9c;
+}
