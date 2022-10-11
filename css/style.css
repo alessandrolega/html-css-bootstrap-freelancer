@@ -3,13 +3,10 @@
 }
 
 .white-bar{
-    height: 2px;
+    height: 3px;
     background-color: white;
-    width: 40%;
-}
-
-.fa-star{
-    color: white;
+    width: 10%;
+    max-width: 200px;
 }
 
 ul li{
@@ -18,5 +15,9 @@ ul li{
 
 .section-bg{
     background-color: #1abc9c;
+}
+
+.max-width-250{
+    max-width: 250px;
 }
 
