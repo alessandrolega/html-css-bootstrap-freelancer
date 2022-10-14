@@ -36,3 +36,9 @@ ul li{
 .bg-dark-blue{
     background-color: #2C3E50;
 }
+
+.form-control{
+    border: 0;
+}
+
+
